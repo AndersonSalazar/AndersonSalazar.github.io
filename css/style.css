@@ -317,7 +317,6 @@ nav{
 
 
 section{
-	position: absolute;
 	width: 713px;
 	background: white;
 	height: 720px;
@@ -327,7 +326,6 @@ section{
 }
 
 aside{
-	position: absolute;
 	width: 280px;
 	background: white;
 	height: 720px;
