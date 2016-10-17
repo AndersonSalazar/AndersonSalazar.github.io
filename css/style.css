@@ -317,6 +317,7 @@ nav{
 
 
 section{
+	position: absolute;
 	width: 713px;
 	background: white;
 	height: 720px;
