@@ -428,6 +428,7 @@ p{
 .img4 img{
 	width: 500px;
 	height: 270px;
+	float: left;
 }
 /*SEUDO CLASES*/
 p {
