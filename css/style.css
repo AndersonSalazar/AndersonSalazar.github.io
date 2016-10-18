@@ -425,6 +425,10 @@ p{
 	margin-top: 40px;
 }
 
+.img4 img{
+	width: 500px;
+	height: 270px;
+}
 /*SEUDO CLASES*/
 p {
 	font-size: 15px;
