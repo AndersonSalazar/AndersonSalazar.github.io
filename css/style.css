@@ -432,7 +432,7 @@ p{
 }
 
 .video iframe{
-	margin-left: 30px;
+	float: center;
 }
 /*SEUDO CLASES*/
 p {
