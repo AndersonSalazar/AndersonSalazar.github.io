@@ -430,6 +430,10 @@ p{
 	height: 150px;
 	float: right;
 }
+
+.video iframe{
+	margin-left: 15px;
+}
 /*SEUDO CLASES*/
 p {
 	font-size: 15px;
