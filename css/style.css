@@ -78,6 +78,10 @@
 	left: 731px;
 	top: 503px;
             }
+
+            #apDiv8 iframe{
+            	float: left;
+            }
             #apDiv9 {
 	position: absolute;
 	width: 33px;
