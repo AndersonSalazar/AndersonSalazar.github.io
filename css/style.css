@@ -431,6 +431,12 @@ p{
 	float: right;
 }
 
+.img5 img{
+	width: 320px;
+	height: 150px;
+	float: left;
+}
+
 .video iframe{
 	margin-left: 120px;
 }
